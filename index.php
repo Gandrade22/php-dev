@@ -1,1 +1,1 @@
-<? phpinfo() ?>
+“Seja bem-vindo”
